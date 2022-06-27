@@ -8,4 +8,6 @@ View problem requirement [here](https://www.hackerrank.com/challenges/compare-th
 
 ## Courtesy
 
+image.png
+
 This was a challenge during our Data Structures and Algorithms session at [Lux Tech Academy](https://twitter.com/lux_academy)
