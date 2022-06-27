@@ -8,6 +8,6 @@ View problem requirement [here](https://www.hackerrank.com/challenges/compare-th
 
 ## Courtesy
 
-image.png
+![image](https://user-images.githubusercontent.com/19888682/176057062-fa062878-2803-4df6-b2e6-a144b852b2bb.png)
 
 This was a challenge during our Data Structures and Algorithms session at [Lux Tech Academy](https://twitter.com/lux_academy)
